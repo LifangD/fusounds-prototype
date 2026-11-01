@@ -1,10 +1,10 @@
 # FUSOUNDS website prototype
 
-This is a discussion prototype for the FUSOUNDS B2B speaker-components website.
+This is a catalogue-based MVP prototype for the FUSOUNDS B2B speaker-components website.
 
-- Pages: home, product catalogue, product detail example, inquiry preview.
-- Product images and technical drawings are placeholders.
-- The inquiry form previews data locally and does not submit it.
-- Product specifications and compatibility claims require review before production use.
+- Pages: home, product catalogue, four model detail pages, inquiry.
+- Product photos, specifications, and curves come from the supplied HF Driver and Woofer Speaker PDF catalogues.
+- The inquiry form opens an email or WhatsApp draft; the website does not collect or store submissions.
+- Availability, fitment, specifications, and image rights require confirmation before production use.
 
 Open `index.html` to review the prototype.
